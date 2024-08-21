@@ -23,4 +23,4 @@ Clean Energy Generation: Produces sustainable energy from waste plastic, minimiz
 Waste Reduction: Diverts plastic waste from landfills and oceans, promoting a circular economy.
 Trailblazing Solution: Showcases a unique approach to addressing energy and waste management challenges.
 
-To check the prototype visit: 
+To check the prototype visit: https://www.youtube.com/watch?v=xEk_RztiPUA
